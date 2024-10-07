@@ -33,4 +33,4 @@ To set up the project locally, follow these steps:
 
   *******Live Link******
 
-  link:https://uiux-design-lime.vercel.app/
+  link:https://ui-ux-dusky.vercel.app/
